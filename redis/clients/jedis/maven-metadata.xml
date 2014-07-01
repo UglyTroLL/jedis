@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>redis.clients</groupId>
+  <artifactId>jedis</artifactId>
+  <version>2.5.2-PIPELINE-FIX</version>
+  <versioning>
+    <versions>
+      <version>2.5.2-PIPELINE-FIX</version>
+    </versions>
+    <lastUpdated>20140701231303</lastUpdated>
+  </versioning>
+</metadata>
